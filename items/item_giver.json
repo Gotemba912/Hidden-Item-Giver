@@ -1,0 +1,19 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:item": {
+    "description": {
+      "identifier": "hidden:item_giver"
+    },
+
+    "components": {
+      "minecraft:display_name": {
+        "value": "§bHidden Item Giver §4[Use]"
+      },
+			"minecraft:icon": {
+        "texture": "hopper"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:glint": true
+    }
+  }
+}
